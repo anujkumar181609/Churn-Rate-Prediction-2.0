@@ -7,7 +7,11 @@ Customer churn is one of the most critical business problems faced by telecom an
 The goal is to help businesses identify at-risk customers and take proactive retention measures.
 
 ---
+## 🌐 Live Demo
 
+👉 [https://car-price-prediction-model-20-ggdrkxknfp5bsjdukiqxln.streamlit.app/](https://churn-rate-prediction-20-6fatcuryz7assw6zawcurv.streamlit.app/)
+
+---
 ## 🎯 Objectives
 
 * Predict customer churn using machine learning models.
