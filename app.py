@@ -12,8 +12,8 @@ st.set_page_config(
 
 
 # Load Model
-model = jb.load("churn_model.pkl")
-
+model_path = BASE_DIR / "churn_model.pkl"
+model= joblib.load(open(model_path, 'rb'))
 
 # Custom CSS
 st.markdown("""
