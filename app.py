@@ -13,6 +13,7 @@ st.set_page_config(
 
 
 # Load Model
+BASE_DIR = Path(__file__).resolve().parent
 model_path = BASE_DIR / "churn_model.pkl"
 model= joblib.load(open(model_path, 'rb'))
 
@@ -83,36 +84,6 @@ st.title("📊 Customer Churn Prediction")
 st.markdown(
     "Predict whether a customer is likely to leave the service."
 )
-
-
-# # Metrics Cards
-# c1, c2, c3 = st.columns(3)
-
-# with c1:
-#     st.markdown("""
-#     <div class='metric-card'>
-#         <div class='metric-title'>Accuracy</div>
-#         <div class='metric-value'>82.19%</div>
-#     </div>
-#     """, unsafe_allow_html=True)
-
-# with c2:
-#     st.markdown("""
-#     <div class='metric-card'>
-#         <div class='metric-title'>Recall</div>
-#         <div class='metric-value'>55%</div>
-#     </div>
-#     """, unsafe_allow_html=True)
-
-# with c3:
-#     st.markdown("""
-#     <div class='metric-card'>
-#         <div class='metric-title'>F1 Score</div>
-#         <div class='metric-value'>62%</div>
-#     </div>
-#     """, unsafe_allow_html=True)
-
-# st.markdown("---")
 
 
 # Input Section
