@@ -76,7 +76,7 @@ Feature Selection + Model Comparison performed before final deployment.
 ---
 """)
 
-    st.success("ROC-AUC Score: 86.16%")
+    st.success("ROC-AUC Score: 72.53%")
 
 
 # Header
