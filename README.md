@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction using Machine Learning
+# 📊 Teleco Customer Churn Prediction using Machine Learning
 
 ## 🚀 Project Overview
 
