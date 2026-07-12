@@ -6,7 +6,7 @@ from pathlib import Path
 
 # Page Config
 st.set_page_config(
-    page_title="Customer Churn Prediction",
+    page_title="Telco Customer Churn Prediction",
     page_icon="📊",
     layout="wide"
 )
@@ -210,3 +210,12 @@ if st.button("🔍 Predict Churn", use_container_width=True):
 
     else:
         st.error("🔴 High Risk")
+
+#footer
+st.markdown("---")
+
+st.caption("""
+Telco Customer Churn Prediction System
+
+Developed by Anuj Kumar
+""")
