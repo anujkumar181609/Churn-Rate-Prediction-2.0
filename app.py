@@ -52,7 +52,7 @@ with st.sidebar:
     st.title("📌 Project Overview")
 
     st.markdown("""
-### Customer Churn Prediction System
+### Telco Customer Churn Prediction System
 
 This machine learning application predicts whether a customer is likely to churn based on account, billing and service information.
 
@@ -77,10 +77,14 @@ Feature Selection + Model Comparison performed before final deployment.
 """)
 
     st.success("ROC-AUC Score: 86.16%")
+    
+    st.markdown("---")
+
+    st.caption("Developed by Anuj Kumar")
 
 
 # Header
-st.title("📊 Customer Churn Prediction")
+st.title("📊 Telco Customer Churn Prediction")
 st.markdown(
     "Predict whether a customer is likely to leave the service."
 )
