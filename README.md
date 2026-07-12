@@ -9,7 +9,7 @@ The goal is to help businesses identify at-risk customers and take proactive ret
 ---
 ## 🌐 Live Demo
 
-👉 [Telco Customer Churn Prediction System/](https://telco-customer-churn-prediction-te2h2lkha4etbkuve3fwv2.streamlit.app/)]
+👉 Telco Customer Churn Prediction System(https://telco-customer-churn-prediction-te2h2lkha4etbkuve3fwv2.streamlit.app/)]
 
 ---
 ## 🎯 Objectives
