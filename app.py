@@ -210,5 +210,5 @@ if st.button("🔍 Predict Churn", use_container_width=True):
 
     else:
         st.error("🔴 High Risk")
-d by Anuj Kumar
-""")
+
+
