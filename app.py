@@ -210,12 +210,5 @@ if st.button("🔍 Predict Churn", use_container_width=True):
 
     else:
         st.error("🔴 High Risk")
-
-#footer
-st.markdown("---")
-
-st.caption("""
-Telco Customer Churn Prediction System
-
-Developed by Anuj Kumar
+d by Anuj Kumar
 """)
