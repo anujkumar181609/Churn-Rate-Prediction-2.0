@@ -9,7 +9,7 @@ The goal is to help businesses identify at-risk customers and take proactive ret
 ---
 ## 🌐 Live Demo
 
-👉 [https://car-price-prediction-model-20-ggdrkxknfp5bsjdukiqxln.streamlit.app/](https://churn-rate-prediction-20-6fatcuryz7assw6zawcurv.streamlit.app/)
+👉 [https://car-price-prediction-model-20-ggdrkxknfp5bsjdukiqxln.streamlit.app/](https://telco-customer-churn-prediction-te2h2lkha4etbkuve3fwv2.streamlit.app/)]
 
 ---
 ## 🎯 Objectives
